@@ -89,5 +89,4 @@ public:
         return f_min;
 
     }
-
 };
